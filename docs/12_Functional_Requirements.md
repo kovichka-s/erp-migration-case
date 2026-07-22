@@ -1,5 +1,3 @@
-# 12_Functional_Requirements.md
-
 # Functional Requirements
 
 ## Мета
