@@ -1,49 +1,92 @@
 # ERP Migration Case
 
-Business analysis documentation for an ERP migration project from 1C to Odoo.
+Практичний кейс бізнес-аналізу переходу виробничого підприємства з 1С на Odoo ERP.
 
-The repository demonstrates a complete business analysis workflow for one functional module of an ERP migration project in a manufacturing company.
+Проєкт демонструє повний цикл роботи бізнес-аналітика: від визначення бізнес-проблеми та аналізу поточного процесу до формування вимог, моделювання майбутнього процесу та оцінки очікуваної бізнес-цінності.
 
-## Project Scope
+---
 
-This project focuses on improving the pellet sales planning process by analyzing the current workflow, identifying business problems, and defining requirements for implementation in Odoo ERP.
+# Project Scope
 
-## Repository Structure
+Міграція виробничого підприємства з 1С на Odoo ERP із покроковим аналізом одного бізнес-процесу — планування продажу пелет залежно від прогнозованого виробництва.
 
-```
-docs/
-diagrams/
-assets/
-```
+---
 
-## Documentation
+# Business Analysis Approach
 
-### Project Initiation
+У цьому кейсі використані практики та підходи, які широко застосовуються в Business Analysis та Business Process Management:
+
+- BABOK v3
+- BPM CBOK
+- BPMN 2.0
+- Stakeholder Analysis
+- Stakeholder Interviews
+- AS IS Analysis
+- TO BE Analysis
+- Business Process Analysis
+- Root Cause Analysis
+- Value Stream Mapping (VSM)
+- Business Rules
+- Functional Requirements
+- User Stories
+- Acceptance Criteria
+- KPI Definition
+- Business Value Assessment
+
+Усі перелічені підходи підтверджені відповідними артефактами цього репозиторію.
+
+---
+
+# Repository Structure
+
+## Phase 1. Project Initiation
 
 - [01. Project Charter](docs/01_Project_Charter.md)
+
+---
+
+## Phase 2. Discovery
+
 - [02. Stakeholder Analysis](docs/02_Stakeholder_Analysis.md)
-- [03. Glossary](docs/03_Glossary.md)
+- [03. Stakeholder Interviews](docs/03_Stakeholder_Interviews.md)
+- [04. Business Problem Statement](docs/04_Business_Problem_Statement.md)
 
-### Business Analysis
+---
 
-- [04. Current Process (AS IS)](docs/04_Current_Process_AS_IS.md)
-- [05. Business Rules](docs/05_Business_Rules.md)
-- [06. Process Analysis](docs/06_Process_Analysis.md)
-- [07. Future Process (TO BE)](docs/07_Future_Process_TO_BE.md)
+## Phase 3. Current State Analysis (AS IS)
 
-### Requirements
+- [05. AS IS Process Description](docs/05_AS_IS_Process.md)
+- [06. BPMN AS IS](diagrams/06_BPMN_AS_IS.bpmn)
+- [07. Value Stream Mapping](docs/07_Value_Stream_Mapping.md)
+- [08. Pain Points Analysis](docs/08_Pain_Points_Analysis.md)
+- [09. Root Cause Analysis](docs/09_Root_Cause_Analysis.md)
+- [10. Business Rules](docs/10_Business_Rules.md)
 
-- [08. Functional Requirements](docs/08_Functional_Requirements.md)
-- [09. User Stories](docs/09_User_Stories.md)
-- [10. Acceptance Criteria](docs/10_Acceptance_Criteria.md)
+---
 
-### Project Management
+## Phase 4. Future State Design (TO BE)
 
-- [11. Assumptions and Constraints](docs/11_Assumptions_and_Constraints.md)
-- [12. Open Questions](docs/12_Open_Questions.md)
-- [13. Decision Log](docs/13_Decision_Log.md)
+- [11. TO BE Process Description](docs/11_TO_BE_Process.md)
+- [12. BPMN TO BE](diagrams/12_BPMN_TO_BE.bpmn)
+- [13. Functional Requirements](docs/13_Functional_Requirements.md)
+- [14. User Stories](docs/14_User_Stories.md)
+- [15. Acceptance Criteria](docs/15_Acceptance_Criteria.md)
 
-## Diagrams
+---
 
-- [BPMN AS IS](diagrams/BPMN_AS_IS.bpmn)
-- [BPMN TO BE](diagrams/BPMN_TO_BE.bpmn)
+## Phase 5. Business Value
+
+- [16. KPI Definition](docs/16_KPI_Definition.md)
+- [17. Business Value Assessment](docs/17_Business_Value_Assessment.md)
+
+---
+
+# Tools
+
+- Odoo ERP
+- BPMN 2.0
+- draw.io
+- Miro
+- Jira
+- Confluence
+- GitHub
