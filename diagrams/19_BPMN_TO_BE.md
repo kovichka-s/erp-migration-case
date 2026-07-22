@@ -42,15 +42,6 @@
 
 ---
 
-# Пов'язані документи
-
-* [06_AS_IS_Process_Description.md](06_AS_IS_Process_Description.md)
-* [07_BPMN_AS_IS.md](07_BPMN_AS_IS.md)
-* [18_TO_BE_Process_Description.md](18_TO_BE_Process_Description.md)
-* [20_Gap_Analysis.md](20_Gap_Analysis.md)
-* [21_KPI_Definition.md](21_KPI_Definition.md)
-
----
 
 # Висновок
 
