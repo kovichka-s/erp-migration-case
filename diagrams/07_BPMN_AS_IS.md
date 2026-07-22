@@ -10,10 +10,4 @@
 
 📄 [Open BPMN AS IS End-to-End Process](../diagrams/BPMN_AS_IS_End_to_End.pdf)
 
-## Використовується в
 
-- 08. Value Stream Mapping
-- 09. Pain Points Analysis
-- 10. Root Cause Analysis
-- 18. TO BE Process Description
-- 19. BPMN TO BE
