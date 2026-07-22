@@ -1,5 +1,3 @@
-# 09_Pain_Points_Analysis.md
-
 # Pain Points Analysis
 
 ## Мета
