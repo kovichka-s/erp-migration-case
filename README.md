@@ -62,7 +62,7 @@
 ## Phase 5. Solution Design (TO BE)
 
 - [18. TO BE Process Description](docs/18_TO_BE_Process_Description.md)
-- [19. BPMN TO BE](diagrams/19_BPMN_TO_BE.bpmn)
+- [19. BPMN TO BE](diagrams/19_BPMN_TO_BE.md)
 - [20. Gap Analysis](docs/20_Gap_Analysis.md)
 
 ---
