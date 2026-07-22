@@ -40,7 +40,7 @@
 ## Phase 3. Current State Analysis (AS IS)
 
 - [06. AS IS Process Description](docs/06_AS_IS_Process.md)
-- [07. BPMN AS IS](diagrams/07_BPMN_AS_IS.bpmn)
+- [07. BPMN AS IS](diagrams/07_BPMN_AS_IS.md)
 - [08. Value Stream Mapping](docs/08_Value_Stream_Mapping.md)
 - [09. Pain Points Analysis](docs/09_Pain_Points_Analysis.md)
 - [10. Root Cause Analysis](docs/10_Root_Cause_Analysis.md)
