@@ -2,38 +2,21 @@
 
 Практичний кейс бізнес-аналізу переходу виробничого підприємства з 1С на Odoo ERP.
 
-Проєкт демонструє повний цикл роботи бізнес-аналітика: від визначення бізнес-проблеми та аналізу поточного процесу до формування вимог, моделювання майбутнього процесу та оцінки очікуваної бізнес-цінності.
+Проєкт демонструє повний цикл роботи бізнес-аналітика: від виявлення бізнес-проблеми та аналізу поточного процесу до формування вимог, проєктування майбутнього процесу та оцінки бізнес-цінності запропонованого рішення.
 
 ---
 
 # Project Scope
 
-Міграція виробничого підприємства з 1С на Odoo ERP із покроковим аналізом одного бізнес-процесу — планування продажу пелет залежно від прогнозованого виробництва.
+Міграція виробничого підприємства з 1С на Odoo ERP із детальним аналізом процесу планування продажу пелет на основі прогнозованого виробництва.
 
 ---
 
 # Business Analysis Approach
 
-У цьому кейсі використані практики та підходи, які широко застосовуються в Business Analysis та Business Process Management:
+У проєкті використано підходи, практики та артефакти Business Analysis і Business Process Management, зокрема: BABOK v3, BPM CBOK, BPMN 2.0, Stakeholder Management, Stakeholder Analysis, Stakeholder Interviews, Business Process Analysis, AS IS Analysis, TO BE Analysis, Root Cause Analysis, Value Stream Mapping (VSM), Gap Analysis, Functional Requirements, Non-functional Requirements, Business Rules, User Stories, Use Cases, Acceptance Criteria, Requirements Traceability Matrix (RTM), KPI Definition, Business Value Assessment, Decision Log, Risk Analysis, Assumptions, Open Questions, а також процесне моделювання, візуалізація бізнес-процесів і документування вимог.
 
-- BABOK v3
-- BPM CBOK
-- BPMN 2.0
-- Stakeholder Analysis
-- Stakeholder Interviews
-- AS IS Analysis
-- TO BE Analysis
-- Business Process Analysis
-- Root Cause Analysis
-- Value Stream Mapping (VSM)
-- Business Rules
-- Functional Requirements
-- User Stories
-- Acceptance Criteria
-- KPI Definition
-- Business Value Assessment
-
-Усі перелічені підходи підтверджені відповідними артефактами цього репозиторію.
+Усі перелічені практики підтверджені відповідними артефактами цього репозиторію.
 
 ---
 
@@ -50,41 +33,53 @@
 - [02. Stakeholder Analysis](docs/02_Stakeholder_Analysis.md)
 - [03. Stakeholder Interviews](docs/03_Stakeholder_Interviews.md)
 - [04. Business Problem Statement](docs/04_Business_Problem_Statement.md)
+- [05. Scope Definition](docs/05_Scope_Definition.md)
 
 ---
 
 ## Phase 3. Current State Analysis (AS IS)
 
-- [05. AS IS Process Description](docs/05_AS_IS_Process.md)
-- [06. BPMN AS IS](diagrams/06_BPMN_AS_IS.bpmn)
-- [07. Value Stream Mapping](docs/07_Value_Stream_Mapping.md)
-- [08. Pain Points Analysis](docs/08_Pain_Points_Analysis.md)
-- [09. Root Cause Analysis](docs/09_Root_Cause_Analysis.md)
-- [10. Business Rules](docs/10_Business_Rules.md)
+- [06. AS IS Process Description](docs/06_AS_IS_Process.md)
+- [07. BPMN AS IS](diagrams/07_BPMN_AS_IS.bpmn)
+- [08. Value Stream Mapping](docs/08_Value_Stream_Mapping.md)
+- [09. Pain Points Analysis](docs/09_Pain_Points_Analysis.md)
+- [10. Root Cause Analysis](docs/10_Root_Cause_Analysis.md)
+- [11. Business Rules](docs/11_Business_Rules.md)
 
 ---
 
-## Phase 4. Future State Design (TO BE)
+## Phase 4. Requirements Analysis
 
-- [11. TO BE Process Description](docs/11_TO_BE_Process.md)
-- [12. BPMN TO BE](diagrams/12_BPMN_TO_BE.bpmn)
-- [13. Functional Requirements](docs/13_Functional_Requirements.md)
+- [12. Functional Requirements](docs/12_Functional_Requirements.md)
+- [13. Non-functional Requirements](docs/13_Non_Functional_Requirements.md)
 - [14. User Stories](docs/14_User_Stories.md)
-- [15. Acceptance Criteria](docs/15_Acceptance_Criteria.md)
+- [15. Use Cases](docs/15_Use_Cases.md)
+- [16. Acceptance Criteria](docs/16_Acceptance_Criteria.md)
+- [17. Requirements Traceability Matrix](docs/17_Requirements_Traceability_Matrix.md)
 
 ---
 
-## Phase 5. Business Value
+## Phase 5. Solution Design (TO BE)
 
-- [16. KPI Definition](docs/16_KPI_Definition.md)
-- [17. Business Value Assessment](docs/17_Business_Value_Assessment.md)
+- [18. TO BE Process Description](docs/18_TO_BE_Process.md)
+- [19. BPMN TO BE](diagrams/19_BPMN_TO_BE.bpmn)
+- [20. Gap Analysis](docs/20_Gap_Analysis.md)
+
+---
+
+## Phase 6. Business Value
+
+- [21. KPI Definition](docs/21_KPI_Definition.md)
+- [22. Business Value Assessment](docs/22_Business_Value_Assessment.md)
+- [23. Risk Analysis & Assumptions](docs/23_Risk_Analysis_and_Assumptions.md)
+- [24. Decision Log](docs/24_Decision_Log.md)
+- [25. Open Questions](docs/25_Open_Questions.md)
 
 ---
 
 # Tools
 
 - Odoo ERP
-- BPMN 2.0
 - draw.io
 - Miro
 - Jira
