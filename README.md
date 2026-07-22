@@ -1,56 +1,49 @@
 # ERP Migration Case
 
-Business analysis documentation for the migration of an ERP system from 1C to Odoo.
+Business analysis documentation for an ERP migration project from 1C to Odoo.
 
-The repository contains project documentation, process models, business requirements, and analysis artifacts prepared during the ERP migration initiative.
----
-
-## Project Overview
-
-The company is migrating from 1C ERP to Odoo due to business and regulatory requirements.
-
-This repository focuses on one workstream of the migration program:
-
-**Pellet Sales Planning**
-
-The objective is to improve the process of planning pellet sales by providing sales managers with visibility into production readiness and shipment availability.
-
----
+The repository demonstrates a complete business analysis workflow for one functional module of an ERP migration project in a manufacturing company.
 
 ## Project Scope
 
-This case study covers:
-
-- Business Analysis
-- Stakeholder Analysis
-- AS IS process analysis
-- BPMN modelling
-- Business Rules
-- TO BE process design
-- User Stories
-- Acceptance Criteria
-- Project documentation
-
----
+This project focuses on improving the pellet sales planning process by analyzing the current workflow, identifying business problems, and defining requirements for implementation in Odoo ERP.
 
 ## Repository Structure
 
-```text
+```
 docs/
 diagrams/
 assets/
 ```
 
+## Documentation
 
-## Technologies
+### Project Initiation
 
-- BPMN 2.0
-- Odoo ERP
-- GitHub
-- Markdown
+- [01. Project Charter](docs/01_Project_Charter.md)
+- [02. Stakeholder Analysis](docs/02_Stakeholder_Analysis.md)
+- [03. Glossary](docs/03_Glossary.md)
 
----
+### Business Analysis
 
-## Status
+- [04. Current Process (AS IS)](docs/04_Current_Process_AS_IS.md)
+- [05. Business Rules](docs/05_Business_Rules.md)
+- [06. Process Analysis](docs/06_Process_Analysis.md)
+- [07. Future Process (TO BE)](docs/07_Future_Process_TO_BE.md)
 
-🚧 Work in Progress
+### Requirements
+
+- [08. Functional Requirements](docs/08_Functional_Requirements.md)
+- [09. User Stories](docs/09_User_Stories.md)
+- [10. Acceptance Criteria](docs/10_Acceptance_Criteria.md)
+
+### Project Management
+
+- [11. Assumptions and Constraints](docs/11_Assumptions_and_Constraints.md)
+- [12. Open Questions](docs/12_Open_Questions.md)
+- [13. Decision Log](docs/13_Decision_Log.md)
+
+## Diagrams
+
+- [BPMN AS IS](diagrams/BPMN_AS_IS.bpmn)
+- [BPMN TO BE](diagrams/BPMN_TO_BE.bpmn)
