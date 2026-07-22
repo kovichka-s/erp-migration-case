@@ -1,4 +1,4 @@
-# 23. Risk Analysis & Assumptions
+# 23. Risk Analysis and Assumptions
 
 ## Мета документа
 
