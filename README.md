@@ -1,9 +1,8 @@
 # ERP Migration Case
 
-Business Analysis portfolio project demonstrating the migration of an ERP system from 1C to Odoo.
+Business analysis documentation for the migration of an ERP system from 1C to Odoo.
 
-The repository contains a complete set of Business Analysis artifacts created during the analysis and redesign of a real manufacturing business process.
-
+The repository contains project documentation, process models, business requirements, and analysis artifacts prepared during the ERP migration initiative.
 ---
 
 ## Project Overview
@@ -42,22 +41,6 @@ diagrams/
 assets/
 ```
 
----
-
-## Deliverables
-
-| Artifact | Status |
-|----------|--------|
-| Project Charter | ⏳ |
-| Stakeholder Analysis | ⏳ |
-| BPMN AS IS | ✅ |
-| BPMN TO BE | ⏳ |
-| Business Rules | ⏳ |
-| User Stories | ⏳ |
-| Acceptance Criteria | ⏳ |
-| Open Questions | ⏳ |
-
----
 
 ## Technologies
 
