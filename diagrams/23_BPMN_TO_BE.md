@@ -1,4 +1,4 @@
-# 19. BPMN TO BE
+# 23. BPMN TO BE
 
 ## Мета документа
 
@@ -26,7 +26,7 @@
 
 📄 **PDF Diagram**
 
-[19_BPMN_TO_BE.pdf](../diagrams/19_BPMN_TO_BE.pdf)
+[23_BPMN_TO_BE.pdf](../diagrams/23_BPMN_TO_BE.pdf)
 
 ---
 
