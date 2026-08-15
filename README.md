@@ -77,6 +77,20 @@
 
 ---
 
+## Phase 7. Agile Delivery & Change Management
+
+- [26. Epic Backlog](docs/26_Epic_Backlog.md)
+- [27. Product Backlog](docs/27_Product_Backlog.md)
+- [28. Definition of Ready](docs/28_Definition_of_Ready.md)
+- [29. Definition of Done](docs/29_Definition_of_Done.md)
+- [30. Refinement Notes](docs/30_Refinement_Notes.md)
+- [31. Sprint Planning](docs/31_Sprint_Planning.md)
+- [32. UAT Plan](docs/32_UAT_Plan.md)
+- [33. Change Request](docs/33_Change_Request.md)
+- [34. Impact Analysis](docs/34_Impact_Analysis.md)
+
+---
+
 # Tools
 
 - Odoo ERP
