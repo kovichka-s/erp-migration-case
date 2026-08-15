@@ -1,4 +1,4 @@
-# 08. Value Stream Mapping
+# 09. Value Stream Mapping
 
 ## Purpose
 
