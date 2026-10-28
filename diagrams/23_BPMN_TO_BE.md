@@ -26,7 +26,7 @@
 
 📄 **PDF Diagram**
 
-[23_BPMN_TO_BE.pdf](../diagrams/23_BPMN_TO_BE.pdf)
+[23_BPMN_TO_BE.pdf](../diagrams/BPMN_TO_BE.svg)
 
 ---
 
